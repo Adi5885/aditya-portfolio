@@ -6,7 +6,7 @@ A professional portfolio website built with HTML, CSS, and JavaScript.
 
 ### Step 1: Add Your Profile Photo
 1. Save your LinkedIn profile photo as `profile.jpg`
-2. Put it in the `aditya-portfolio-final` folder (same folder as index.html)
+2. Put it in the `aditya-portfolio` folder (same folder as index.html)
 3. The image should be square (recommended: 800x800px)
 
 ### Step 2: Add Your Resume PDF
@@ -59,3 +59,4 @@ Edit `style.css` to change:
 - Colors
 - Fonts
 - Layout
+
